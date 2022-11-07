@@ -26,7 +26,7 @@ function checkGame(){
         top3.classList.contains('bi-android2') === true
     ){
         return document.querySelector(".winInfo").innerHTML = `
-            <h1>Winner is Player 1</h1>
+            <h1>Winner is Android</h1>
         `;
     }else if(
         middle1.classList.contains('bi-android2') === true &&
@@ -34,7 +34,7 @@ function checkGame(){
         middle3.classList.contains('bi-android2') === true
     ){
         return document.querySelector(".winInfo").innerHTML = `
-            <h1>Winner is Player 1</h1>
+            <h1>Winner is Android</h1>
         `;
     }else if(
         bottom1.classList.contains('bi-android2') === true &&
@@ -42,7 +42,7 @@ function checkGame(){
         bottom3.classList.contains('bi-android2') === true
     ){
         return document.querySelector(".winInfo").innerHTML = `
-            <h1>Winner is Player 1</h1>
+            <h1>Winner is Android</h1>
         `;
     }else if(
         top1.classList.contains('bi-android2') === true &&
@@ -50,7 +50,7 @@ function checkGame(){
         bottom1.classList.contains('bi-android2') === true
     ){
         return document.querySelector(".winInfo").innerHTML = `
-            <h1>Winner is Player 1</h1>
+            <h1>Winner is Android</h1>
         `;
     }else if(
         top2.classList.contains('bi-android2') === true &&
@@ -58,7 +58,7 @@ function checkGame(){
         bottom2.classList.contains('bi-android2') === true
     ){
         return document.querySelector(".winInfo").innerHTML = `
-            <h1>Winner is Player 1</h1>
+            <h1>Winner is Android</h1>
         `;
     }else if(
         top3.classList.contains('bi-android2') === true &&
@@ -66,7 +66,7 @@ function checkGame(){
         bottom3.classList.contains('bi-android2') === true
     ){
         return document.querySelector(".winInfo").innerHTML = `
-            <h1>Winner is Player 1</h1>
+            <h1>Winner is Android</h1>
         `;
     }else if(
         top1.classList.contains('bi-android2') === true &&
@@ -74,7 +74,7 @@ function checkGame(){
         bottom3.classList.contains('bi-android2') === true
     ){
         return document.querySelector(".winInfo").innerHTML = `
-            <h1>Winner is Player 1</h1>
+            <h1>Winner is Android</h1>
         `;
     }else if(
         top3.classList.contains('bi-android2') === true &&
@@ -82,7 +82,7 @@ function checkGame(){
         bottom1.classList.contains('bi-android2') === true
     ){
         return document.querySelector(".winInfo").innerHTML = `
-            <h1>Winner is Player 2</h1>
+            <h1>Winner is iOS</h1>
         `;
     }else if(
         top1.classList.contains('bi-apple') === true &&
@@ -90,7 +90,7 @@ function checkGame(){
         top3.classList.contains('bi-apple') === true
     ){
         return document.querySelector(".winInfo").innerHTML = `
-            <h1>Winner is Player 2</h1>
+            <h1>Winner is iOS</h1>
         `;
     }else if(
         middle1.classList.contains('bi-apple') === true &&
@@ -98,7 +98,7 @@ function checkGame(){
         middle3.classList.contains('bi-apple') === true
     ){
         return document.querySelector(".winInfo").innerHTML = `
-            <h1>Winner is Player 2</h1>
+            <h1>Winner is iOS</h1>
         `;
     }else if(
         bottom1.classList.contains('bi-apple') === true &&
@@ -106,7 +106,7 @@ function checkGame(){
         bottom3.classList.contains('bi-apple') === true
     ){
         return document.querySelector(".winInfo").innerHTML = `
-            <h1>Winner is Player 2</h1>
+            <h1>Winner is iOS</h1>
         `;
     }else if(
         top1.classList.contains('bi-apple') === true &&
@@ -114,7 +114,7 @@ function checkGame(){
         bottom1.classList.contains('bi-apple') === true
     ){
         return document.querySelector(".winInfo").innerHTML = `
-            <h1>Winner is Player 2</h1>
+            <h1>Winner is iOS</h1>
         `;
     }else if(
         top2.classList.contains('bi-apple') === true &&
@@ -122,7 +122,7 @@ function checkGame(){
         bottom2.classList.contains('bi-apple') === true
     ){
         return document.querySelector(".winInfo").innerHTML = `
-            <h1>Winner is Player 2</h1>
+            <h1>Winner is iOS</h1>
         `;
     }else if(
         top3.classList.contains('bi-apple') === true &&
@@ -130,7 +130,7 @@ function checkGame(){
         bottom3.classList.contains('bi-apple') === true
     ){
         return document.querySelector(".winInfo").innerHTML = `
-            <h1>Winner is Player 2</h1>
+            <h1>Winner is iOS</h1>
         `;
     }else if(
         top1.classList.contains('bi-apple') === true &&
@@ -138,7 +138,7 @@ function checkGame(){
         bottom3.classList.contains('bi-apple') === true
     ){
         return document.querySelector(".winInfo").innerHTML = `
-            <h1>Winner is Player 2</h1>
+            <h1>Winner is iOS</h1>
         `;
     }else if(
         top3.classList.contains('bi-apple') === true &&
@@ -146,7 +146,7 @@ function checkGame(){
         bottom1.classList.contains('bi-apple') === true
     ){
         return document.querySelector(".winInfo").innerHTML = `
-            <h1>Winner is Player 2</h1>
+            <h1>Winner is iOS</h1>
         `;
     }
 }
