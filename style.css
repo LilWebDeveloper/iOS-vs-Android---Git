@@ -1,0 +1,15 @@
+.high{
+    height: 250px;
+}
+.gameBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+.gameBox:hover{
+    background-color: brown;
+}
+#resButton:hover{
+    background-color: forestgreen;
+}
