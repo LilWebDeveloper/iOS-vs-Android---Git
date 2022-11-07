@@ -13,3 +13,10 @@
 #resButton:hover{
     background-color: forestgreen;
 }
+h1{
+    text-align: center;
+    font-family: 'Brush Script MT', cursive;
+}
+.row1{
+    border-radius: 5px;
+}
