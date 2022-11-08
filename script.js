@@ -82,7 +82,7 @@ function checkGame(){
         bottom1.classList.contains('bi-android2') === true
     ){
         return document.querySelector(".winInfo").innerHTML = `
-            <h1>Winner is iOS</h1>
+            <h1>Winner is Android</h1>
         `;
     }else if(
         top1.classList.contains('bi-apple') === true &&
